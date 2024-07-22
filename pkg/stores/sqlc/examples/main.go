@@ -10,8 +10,8 @@ import (
 	"context"
 	"fmt"
 
-	"github.com/teamgram/marmota/pkg/stores/sqlc"
-	"github.com/teamgram/marmota/pkg/stores/sqlx"
+	"github.com/ali-cambodia/h9_marmota/pkg/stores/sqlc"
+	"github.com/ali-cambodia/h9_marmota/pkg/stores/sqlx"
 
 	"github.com/zeromicro/go-zero/core/conf"
 	"github.com/zeromicro/go-zero/core/jsonx"

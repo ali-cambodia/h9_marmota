@@ -22,7 +22,7 @@ import (
 	"context"
 	"database/sql"
 
-	"github.com/teamgram/marmota/pkg/stores/sqlx/reflectx"
+	"github.com/ali-cambodia/h9_marmota/pkg/stores/sqlx/reflectx"
 	"github.com/zeromicro/go-zero/core/stores/sqlx"
 )
 

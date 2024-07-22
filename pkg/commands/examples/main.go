@@ -19,7 +19,7 @@
 package main
 
 import (
-	"github.com/teamgram/marmota/pkg/commands"
+	"github.com/ali-cambodia/h9_marmota/pkg/commands"
 	"github.com/zeromicro/go-zero/core/logx"
 )
 

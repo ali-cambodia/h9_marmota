@@ -19,7 +19,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/teamgram/marmota/pkg/container2/map2"
+	"github.com/ali-cambodia/h9_marmota/pkg/container2/map2"
 )
 
 func TestStringKeyOMapInsertion(t *testing.T) {

@@ -25,8 +25,8 @@ import (
 	"net/http"
 	"strings"
 
-	"github.com/teamgram/marmota/pkg/logx"
-	"github.com/teamgram/marmota/pkg/net/http/binding"
+	"github.com/ali-cambodia/h9_marmota/pkg/logx"
+	"github.com/ali-cambodia/h9_marmota/pkg/net/http/binding"
 )
 
 type HttpApiRequest interface {

@@ -1,6 +1,8 @@
 module github.com/ali-cambodia/h9_marmota
 
-go 1.19
+go 1.21
+
+toolchain go1.22.5
 
 require (
 	github.com/IBM/sarama v1.43.2

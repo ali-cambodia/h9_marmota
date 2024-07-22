@@ -5,7 +5,7 @@ import (
 	"database/sql"
 	"time"
 
-	"github.com/teamgram/marmota/pkg/stores/sqlx"
+	"github.com/ali-cambodia/h9_marmota/pkg/stores/sqlx"
 
 	"github.com/zeromicro/go-zero/core/stores/cache"
 	"github.com/zeromicro/go-zero/core/stores/redis"

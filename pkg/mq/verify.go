@@ -20,7 +20,7 @@ import (
 
 	"github.com/IBM/sarama"
 
-	"github.com/teamgram/marmota/pkg/error2"
+	"github.com/ali-cambodia/h9_marmota/pkg/error2"
 )
 
 func Check(ctx context.Context, conf *KafkaConsumerConf, topics []string) error {

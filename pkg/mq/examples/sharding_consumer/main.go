@@ -22,8 +22,8 @@ import (
 	"context"
 	"flag"
 	"fmt"
-	"github.com/teamgram/marmota/pkg/commands"
-	kafka "github.com/teamgram/marmota/pkg/mq"
+	"github.com/ali-cambodia/h9_marmota/pkg/commands"
+	kafka "github.com/ali-cambodia/h9_marmota/pkg/mq"
 
 	"github.com/zeromicro/go-zero/core/conf"
 	"github.com/zeromicro/go-zero/core/logx"

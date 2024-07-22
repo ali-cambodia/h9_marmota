@@ -32,7 +32,7 @@ import (
 	"strings"
 	"sync"
 
-	"github.com/teamgram/marmota/pkg/stores/sqlx/reflectx"
+	"github.com/ali-cambodia/h9_marmota/pkg/stores/sqlx/reflectx"
 )
 
 // Bindvar types supported by Rebind, BindMap and BindStruct.

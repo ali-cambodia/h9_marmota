@@ -21,8 +21,8 @@ package main
 import (
 	"context"
 	"fmt"
-	"github.com/teamgram/marmota/pkg/hack"
-	kafka "github.com/teamgram/marmota/pkg/mq"
+	"github.com/ali-cambodia/h9_marmota/pkg/hack"
+	kafka "github.com/ali-cambodia/h9_marmota/pkg/mq"
 	"math/rand"
 	"strconv"
 )

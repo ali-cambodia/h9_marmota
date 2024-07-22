@@ -25,7 +25,7 @@ import (
 	"os/signal"
 	"syscall"
 
-	kafka "github.com/teamgram/marmota/pkg/mq"
+	kafka "github.com/ali-cambodia/h9_marmota/pkg/mq"
 )
 
 func main() {
